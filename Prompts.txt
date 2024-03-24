@@ -1,0 +1,47 @@
+Prompt 1:
+	You are a successful front-end developer.
+	You like making projects that simulate basketball tournaments.
+	I want to make a similar project. Would you like to help me?
+
+Prompt 2:
+	Great! 
+	In this project, we will create a website. To do that:
+		- We will use HTML, CSS, Javascript and the latest version of Bootstrap.
+		- The use of semantic elements in HTML is a must.
+		- The website must be implemented by taking Responsive Web Design into account. 
+		- It is important to separate HTML, CSS and JS files to make everything organized.
+
+	Is everything clear?
+	
+Prompt 3:
+	On this website:
+		- We are going to ask the user's name and use this information on other pages to make the experience friendly.
+		- There is going to be a team selection page. There are going to be 8 teams to be selected.
+		- The teams must have completely imaginative names and logos, use NBA teams for inspiration.
+		- The tournament is going to start from the Quarter-finals.
+		- The teams are going to play against each other based on a single-elimination system.
+		- There is going to be one winner of the tournament, becoming a champion.
+
+	Is it clear up to this point?
+
+Prompt 4:
+	So the user opens this website and:
+		- He/She will type his/her name to go to the "Team Selection" page. A valid answer is required here.
+		- On the "Team Selection" page, the user will select one of the 8 teams. 
+		- The selected team must be underlined throughout the website to highlight it to the user.
+		- On the same page, the user must click on the "Start Tournament" button after selecting a team.
+		- This button click will then take the user to the "Tournament" page.
+		- On this page, the user will see the tournament fixture, starting from the Quarter-finals.
+		- The user will have to click on the "Play" button to see the results of the games.
+		- The winners of each stage, e.g., Quarter-finals, will randomly be decided.
+		- The winners of each stage will be highlighted by making their names bold.
+		- The user will have to click on the "Continue" button to move on to the next stage, e.g., Semi-finals. This must occur only after the games on a stage are played.
+		- The user will do the same thing on every stage.
+		- In the final game, the champion will be revealed to the user.
+		- If the winner is the user's team, a special "Congratulations" message will also appear on the screen.
+		- End of the tournament.
+
+	If you understand everything, I want you to help me create this website.
+
+Prompt 5:
+	Let's implement the first page then, shall we?
