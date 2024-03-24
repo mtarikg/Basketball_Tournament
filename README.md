@@ -28,7 +28,7 @@ running out of buttons and no possibility of playing the remaining games eventua
 the last one for moving on to the next stage. Furthermore, it was possible to simulate the games again and again, producing duplicate outputs and breaking the tournament format down.
 
 Even though it was successfully sent to the next page, there was no list of games with advancing teams from the previous one. To generate the necessary games, it used a straightforward algorithm
-by using if-else clauses for each stage and a separate method to generate the final game.
+by using if-else clauses for each stage and a separate method for the final game.
 
 After all of them, it still needed reminder prompts which then lead to trying to even rewrite everything from the scratch for the following requirements:
 
