@@ -1,3 +1,4 @@
+Prompts given to the ChatGPT to create the website:
 Prompt 1:
 	You are a successful front-end developer.
 	You like making projects that simulate basketball tournaments.
@@ -45,3 +46,31 @@ Prompt 4:
 
 Prompt 5:
 	Let's implement the first page then, shall we?
+
+Prompts given to the DALL-E and Magic Design, for logos, created by ChatGPT:
+Prompt 1:
+	A fiery phoenix rising from flames.
+
+Prompt 2:
+	A stylized wave with a basketball in the center.
+
+Prompt 3:
+	An energetic tornado swirling around a basketball.
+
+Prompt 4:
+	A galaxy-themed basketball with stars and planets.
+
+Prompt 5:
+	A fierce pirate ship sailing on waves of fire.
+
+Prompt 6:
+	A striking cobra wrapped around a basketball.
+
+Prompt 7:
+	A futuristic sentinel robot holding a basketball.
+
+Prompt 8:
+	A majestic dragon breathing fire with a basketball in its claws.
+
+Prompt 9:
+	A graffiti-style logo incorporating the letters M, T, and G in order.
