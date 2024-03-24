@@ -40,5 +40,5 @@ After all of them, it still needed reminder prompts which then lead to trying to
 
 Finally, inserting a footer to the website was simply tackled.
 
-Consequently, the website still have minor yet undesired behavior and some bugs. Successfull implementation of Responsive Design. 
+Consequently, the website still have minor yet undesired behavior and some bugs. Successful implementation of Responsive Design. 
 No use of Bootstrap and semantic elements of HTML despite both being stated.
