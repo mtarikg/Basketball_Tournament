@@ -73,4 +73,4 @@ Prompt 8:
 	A majestic dragon breathing fire with a basketball in its claws.
 
 Prompt 9:
-	A graffiti-style logo incorporating the letters M, T, and G in order.
+	A graffiti-style logo using the letters M, T, and G arranged in that order.
