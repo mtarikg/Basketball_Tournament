@@ -19,7 +19,7 @@ The first two steps, ***User Name Input Page*** and ***Team Selection Page***, r
 
 However, starting from the step 3, ***Tournament Page***, confusions started to arise. Showing all stages in the tournament all at one page, not listing the games for a certain stage, 
 not revealing the winners of the games, to name a few.
-Several attempts to direct ChatGPT to produce a desired outcome resulted in a failure: 
+Several attempts to direct ChatGPT to produce a desired behavior resulted in quite messy outcomes: 
 It started to generate predefined match-ups and winners of them with completely different teams than the ones created at first. 
 
 Later, it started to forget the functionality of a button in a way that it enabled to go to the next stage without determining the result of the games of the current one. Fixing this issue came up with another
